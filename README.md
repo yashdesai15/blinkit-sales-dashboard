@@ -70,13 +70,6 @@ The dataset includes:
 - How is the establishment age related to performance?
 
 ---
-📂 blinkit-sales-dashboard
-│
-├── 📁 assets
-│   └── Screenshot.png
-│
-├── 📄 Blinkit_Sales_Dashboard.pbix
-└── 📄 README.md
 
 
 
