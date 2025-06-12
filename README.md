@@ -3,6 +3,8 @@ Interactive Power BI dashboard for Blinkit sales, outlet performance and item in
 
 # 📊 Blinkit Sales Dashboard | Power BI Project
 
+![Image](https://github.com/user-attachments/assets/515f5678-9209-40cf-ac4d-076874f4db69)
+
 A fully interactive Power BI dashboard created to analyze and visualize **Blinkit sales data**, focusing on outlet performance, item types, fat content, and outlet locations across multiple tiers.
 
 > 🟡 Inspired by Blinkit (India’s Last Minute App) for fast-moving consumer goods analytics.
